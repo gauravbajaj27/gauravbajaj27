@@ -32,7 +32,6 @@ Hey there! I'm Gaurav  👋
 </p>
 <br/>
 <br/>
-
 <h2>👨‍💻Find my competitve coding profiles here!</h2>
 <a href="https://www.codechef.com/users/gauravbajaj" target="blank"><img align="center" src="https://cp-logo.vercel.app/codechef/gauravbajaj?logo=true" alt="gauravbajaj" /></a>
 <a href="https://codeforces.com/profile/gauravbajaj" target="blank"><img align="center" src="https://cp-logo.vercel.app/codeforces/gauravbajaj?logo=true" alt="gauravbajaj" /></a>
