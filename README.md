@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <h1>
 Hi there. I'm Gaurav Bajaj 👋
 </h1>
-<p>
-[![Badge](https://cp-logo.vercel.app/codechef/gauravbajaj?logo=true)]
+<p>  
+![Badge](https://cp-logo.vercel.app/codechef/gauravbajaj?logo=true)
 </p>
