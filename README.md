@@ -12,6 +12,7 @@ Hey there! I'm Gaurav  👋
 <br/>
 
 <h2>🛠Tools and Technologies</h2>
+<p>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;&nbsp;&nbsp;
@@ -28,7 +29,7 @@ Hey there! I'm Gaurav  👋
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-
+</p>
 <br/>
 <br/>
 
