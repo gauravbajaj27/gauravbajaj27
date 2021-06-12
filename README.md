@@ -11,7 +11,7 @@ Hey there! I'm Gaurav  👋
 
 <br/>
 
-<h2>🛠Tools and Technologies</h2>
+<h3>🛠Tools and Technologies</h3>
 <p>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;&nbsp;
@@ -31,16 +31,14 @@ Hey there! I'm Gaurav  👋
 <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br/>
-
-<h2>👨‍💻Find my competitve coding profiles here!</h2>
+<h3>👨‍💻Find my competitve coding profiles here!</h3>
 <a href="https://www.codechef.com/users/gauravbajaj" target="blank"><img align="center" src="https://cp-logo.vercel.app/codechef/gauravbajaj?logo=true" alt="gauravbajaj" /></a>
 <a href="https://codeforces.com/profile/gauravbajaj" target="blank"><img align="center" src="https://cp-logo.vercel.app/codeforces/gauravbajaj?logo=true" alt="gauravbajaj" /></a>
 <a href="https://leetcode.com/gauravbajaj/" target="blank"><img align="center" src="https://cp-logo.vercel.app/leetcode/gauravbajaj?logo=true" alt="gauravbajaj" /></a>
 
 <br/>
 
-<h2>🤝🏻Connect with me</h2>
+<h3>🤝🏻Connect with me</h3>
 <a href="https://www.linkedin.com/in/gaurav-b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gaurav-b" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:gauravbajaj2242@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gauravbajaj2242@gmail.com" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/gauravbajaj27/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="gauravbajaj27" /></a>&nbsp;&nbsp;&nbsp;
