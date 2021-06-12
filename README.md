@@ -30,14 +30,14 @@ Hey there! I'm Gaurav  👋
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
+
 <br/>
-<br/>
+
 <h2>👨‍💻Find my competitve coding profiles here!</h2>
 <a href="https://www.codechef.com/users/gauravbajaj" target="blank"><img align="center" src="https://cp-logo.vercel.app/codechef/gauravbajaj?logo=true" alt="gauravbajaj" /></a>
 <a href="https://codeforces.com/profile/gauravbajaj" target="blank"><img align="center" src="https://cp-logo.vercel.app/codeforces/gauravbajaj?logo=true" alt="gauravbajaj" /></a>
 <a href="https://leetcode.com/gauravbajaj/" target="blank"><img align="center" src="https://cp-logo.vercel.app/leetcode/gauravbajaj?logo=true" alt="gauravbajaj" /></a>
 
-<br/>
 <br/>
 
 <h2>🤝🏻Connect with me</h2>
